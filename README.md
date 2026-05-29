@@ -6,10 +6,15 @@ I also investigated the difference between the Rényi-2 entropies of the equal w
 Languages and Libraries:
 
 Python
+
 Numpy
+
 Scipy
+
 Matplotlib
+
 Stim
+
 Qiskit
 
 Install all dependencies with:
